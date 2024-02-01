@@ -78,3 +78,9 @@ git log --oneline --graph
 ```sh
 git merge <имя_ветки>
 ```
+
+12. ### Просмотр всех веток в git
+ 
+ ```sh
+git branch
+```
