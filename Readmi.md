@@ -50,3 +50,9 @@ git checkout master
 ```sh
 git diff
 ```
+
+8. ### Создание ветки в git
+
+```
+git branch name_branch
+```
