@@ -81,5 +81,5 @@ git status
     1. ##### Слияние нужно проводить в ветке master
 
 ```sh
-git merge <имя_ветки>
+git merge <name_branch>
 ```
