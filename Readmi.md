@@ -81,5 +81,5 @@ git status
     1. ##### Слияние нужно проводить в ветке master
 
 ```sh
-git merge <wawdwad>
+git merge <wdawdawawd>
 ```
