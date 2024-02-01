@@ -70,3 +70,9 @@ git checkout <имя_ветки>
 ```sh
 git log --oneline
 ```
+
+11. ### Слияние веток
+
+```sh
+git merge <имя_ветки>
+```
